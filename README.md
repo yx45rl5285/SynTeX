@@ -1,7 +1,5 @@
 # SynTeX: Efficient LaTeX OCR with Synthetic Pretraining
 
-**Note: This repository will be made public upon paper acceptance.**
-
 ## Overview
 
 SynTeX is a data-efficient LaTeX OCR system that converts images of scientific documents into editable LaTeX code. Unlike existing methods requiring large-scale real paired datasets, SynTeX introduces a novel synthetic pretraining approach by randomly pairing grammatical Wikipedia text with LaTeX formulas, requiring no real LaTeX sources and only 400 fine-tuning samples.
